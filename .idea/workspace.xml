@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c67a9acd-9864-4564-85fc-886da2039c5e" name="默认变更列表" comment="项目初始化文件">
+    <list default="true" id="c67a9acd-9864-4564-85fc-886da2039c5e" name="默认变更列表" comment="项目初始化README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625279065043</updated>
-      <workItem from="1625279067143" duration="2608000" />
+      <workItem from="1625279067143" duration="4303000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1625280554654</created>
@@ -81,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625281117340</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目初始化mysql">
+      <created>1625281791799</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625281791799</updated>
+    </task>
+    <task id="LOCAL-00004" summary="项目初始化README">
+      <created>1625282061716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625282061716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +125,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目初始化文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目初始化文件" />
+    <MESSAGE value="项目初始化mysql" />
+    <MESSAGE value="项目初始化README" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化README" />
   </component>
 </project>
